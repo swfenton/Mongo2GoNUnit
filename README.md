@@ -12,4 +12,4 @@ Current erroneous behaviour
 
 1. First test run via Resharper passes.
 2. Subsequent test runs fail with the error:
-    TearDown : System.UnauthorizedAccessException : Access to the path 'IntegrationTest.0' is denied.
+    - TearDown : System.UnauthorizedAccessException : Access to the path 'IntegrationTest.0' is denied.
